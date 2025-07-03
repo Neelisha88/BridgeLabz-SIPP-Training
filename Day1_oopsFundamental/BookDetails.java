@@ -1,5 +1,7 @@
 import java.util.*;
 
+import Day5_Inheritance.Book;
+
 class Book {
     String title;
     String author;
